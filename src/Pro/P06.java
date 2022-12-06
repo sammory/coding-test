@@ -1,22 +1,20 @@
 package Pro;
 
-//자릿수 더하기
+//제곱수 판별하기
 
-public class P9 {
+public class P06 {
 
     public static int solution(int n) {
-        int answer = 0;
+        int a = (int) Math.sqrt(n);
+        int answer = (a == Math.sqrt(n)) ? 1 : -1;
 
-        while (n > 0) {
-            answer += n % 10;
-            n /= 10;
-        }
         return answer;
+
     }
 
     public static void main(String[] args) {
 
-        int n = 2345;
+        int n = 16;
 
         System.out.println(solution(n));
 

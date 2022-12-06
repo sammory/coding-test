@@ -2,7 +2,7 @@ package Pro;
 
 //세균증식 11/8
 
-public class P5 {
+public class P05 {
 
     public static int solution(int n, int t) {
         int answer = (int) Math.pow(2, t)*n;

@@ -1,11 +1,8 @@
 package Pro;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-
 //OX 퀴즈
 
-public class P8 {
+public class P08 {
 
     public static String[] solution(String[] quiz) {
 
