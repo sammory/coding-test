@@ -1,4 +1,4 @@
-package Pro;
+package Programmers;
 
 public class P27_K의개수 {
 

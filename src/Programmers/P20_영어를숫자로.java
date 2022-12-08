@@ -1,4 +1,4 @@
-package Pro;
+package Programmers;
 
 // 영어가싫어요
 public class P20_영어를숫자로 {

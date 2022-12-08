@@ -1,4 +1,4 @@
-package Pro;
+package Programmers;
 
 public class P18_한번만등장한문자 {
     public static String solution(String s) {

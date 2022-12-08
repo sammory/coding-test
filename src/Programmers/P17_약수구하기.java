@@ -1,4 +1,4 @@
-package Pro;
+package Programmers;
 
 //약수 구하기
 

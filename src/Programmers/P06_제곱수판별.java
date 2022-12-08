@@ -1,4 +1,4 @@
-package Pro;
+package Programmers;
 
 //제곱수 판별하기
 

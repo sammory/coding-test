@@ -1,4 +1,4 @@
-package Pro;
+package Programmers;
 
 //n의 배수 고르기
 
