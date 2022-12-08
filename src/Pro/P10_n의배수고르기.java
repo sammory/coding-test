@@ -2,7 +2,7 @@ package Pro;
 
 //n의 배수 고르기
 
-public class P10 {
+public class P10_n의배수고르기 {
 
     public static int[] solution(int n, int[] numlist) {
         int[] arr = new int[numlist.length];

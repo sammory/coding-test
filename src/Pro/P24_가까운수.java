@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 // 가까운수
 
-public class P24 {
+public class P24_가까운수 {
     public static int solution(int[] array, int n) {
         int answer = 0;
         Arrays.sort(array);

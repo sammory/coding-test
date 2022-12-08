@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 //가장 큰수 찾기
 
-public class P15 {
+public class P15_가장큰수찾기 {
 
     public static int[] solution(int[] array) {
         int[] answer = new int[2];

@@ -1,6 +1,7 @@
 package Pro;
 
-public class P20 {
+// 영어가싫어요
+public class P20_영어를숫자로 {
     public static long solution(String numbers) {
         long answer = 0;
         String transNum = numbers.replace("zero","0")

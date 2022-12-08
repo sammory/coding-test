@@ -2,7 +2,7 @@ package Pro;
 
 //약수 구하기
 
-public class P17 {
+public class P17_약수구하기 {
     public static int[] solution(int n) {
         int[] arr = new int[n+1];
         int cnt = 0;

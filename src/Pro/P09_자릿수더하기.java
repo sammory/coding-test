@@ -2,7 +2,7 @@ package Pro;
 
 //자릿수 더하기
 
-public class P09 {
+public class P09_자릿수더하기 {
 
     public static int solution(int n) {
         int answer = 0;

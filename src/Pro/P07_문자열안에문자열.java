@@ -2,7 +2,7 @@ package Pro;
 
 //문자열안에 문자열
 
-public class P07 {
+public class P07_문자열안에문자열 {
 
     public static int solution(String str1, String str2) {
 

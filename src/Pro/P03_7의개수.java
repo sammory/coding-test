@@ -1,6 +1,6 @@
 package Pro;
 
-public class P03 {
+public class P03_7의개수 {
 
     // 7의 개수
 

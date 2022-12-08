@@ -2,7 +2,7 @@ package Pro;
 
 //OX 퀴즈
 
-public class P08 {
+public class P08_OX퀴즈 {
 
     public static String[] solution(String[] quiz) {
 

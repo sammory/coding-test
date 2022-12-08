@@ -2,7 +2,7 @@ package Pro;
 
 // 369 게임
 
-public class P23 {
+public class P23_369게임 {
     public static int solution(int order) {
         int answer = 0;
         String str = Integer.toString(order);

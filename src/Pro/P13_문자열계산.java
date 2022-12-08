@@ -2,7 +2,7 @@ package Pro;
 
 //문자열 계산하기
 
-public class P13 {
+public class P13_문자열계산 {
 
     public static int solution(String my_string) {
         int answer = 0;

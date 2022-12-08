@@ -2,7 +2,7 @@ package Pro;
 
 // 대문자와 소문자
 
-public class P21 {
+public class P21_대문자와소문자 {
     public static String solution(String my_string) {
         String answer = "";
         String[] arr = my_string.split("");

@@ -2,7 +2,7 @@ package Pro;
 
 import java.util.ArrayList;
 
-public class P02 {
+public class P02_잘라서배열정리 {
 
     //잘라서 배열로 정리하기 11/1
 

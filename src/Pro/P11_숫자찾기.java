@@ -4,7 +4,7 @@ import java.util.Stack;
 
 //숫자 찾기 11/10
 
-public class P11 {
+public class P11_숫자찾기 {
 
     public static int solution(int num, int k) {
         int answer = 0;

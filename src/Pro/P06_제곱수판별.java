@@ -2,7 +2,7 @@ package Pro;
 
 //제곱수 판별하기
 
-public class P06 {
+public class P06_제곱수판별 {
 
     public static int solution(int n) {
         int a = (int) Math.sqrt(n);

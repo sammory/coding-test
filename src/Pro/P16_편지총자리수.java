@@ -2,7 +2,7 @@ package Pro;
 
 //편지 11/14
 
-public class P16 {
+public class P16_편지총자리수 {
 
     public static int solution(String message) {
         int answer = 0;

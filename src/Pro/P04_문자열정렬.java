@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 //문자열 졍렬하기2
 
-public class P04 {
+public class P04_문자열정렬 {
 
     public static String solution(String my_string) {
         String answer = my_string.toLowerCase();

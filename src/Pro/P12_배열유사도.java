@@ -2,7 +2,7 @@ package Pro;
 
 //배열의 유사도
 
-public class P12 {
+public class P12_배열유사도 {
 
     public static int solution(String[] s1, String[] s2) {
         int answer = 0;
