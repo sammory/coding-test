@@ -9,7 +9,7 @@ public class P28_이진수더하기 {
         int arr1 = Integer.parseInt(bin1,2); // 문자를 이진수로 변환
         int arr2 = Integer.parseInt(bin2,2);
 
-        answer = Long.toBinaryString(arr1 + arr2); // 더한 이진수를 문자열로 변환
+        answer = Integer.toBinaryString(arr1 + arr2); // 더한 이진수를 문자열로 변환
 
         return answer;
     }
