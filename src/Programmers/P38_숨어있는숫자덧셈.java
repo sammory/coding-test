@@ -9,7 +9,7 @@ public class P38_숨어있는숫자덧셈 {
     public static int solution(String my_string) {
         int answer = 0;
 
-        String[] arr = my_string.replaceAll("[a-zA-Z]"," ").split(" ");
+        String[] arr = my_string.replaceAll("[a-zA-Z]"," ").split(" "); // 알파벳만 공백처리하고 숫자는 담기
         System.out.println(arr);
         for (int i = 0; i < arr.length; i++) {
             if (!arr[i].equals("")) {
