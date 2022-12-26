@@ -12,7 +12,7 @@ public class P05_과일장수 {
     int answer = 0;
     Arrays.sort(score);
 
-    for (int i = score.length; i >= m; i -= m) {  // 뒤에서부터 m번재 만큼씩 돌면서 값 구함
+    for (int i = score.length; i >= m; i -= m) {  // 뒤에서 부터 m번재 만큼씩 돌면서 값 구함
       answer += score[i-m] * m;                   // 구합 값 자릿수에서 m을 곱하여 추가
     }
 
