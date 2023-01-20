@@ -12,6 +12,7 @@ public class P22_키패드누르기 {
         StringBuilder sb = new StringBuilder();
 
         int left = 10;
+        
         int right = 12;
 
         for (int i = 0; i < numbers.length; i++) {
