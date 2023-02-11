@@ -7,7 +7,7 @@ public class P43_문자열다루기 {
     public static boolean solution(String s) {
         if(s.length() != 4 && s.length() != 6)
             return false;
-        for (int i=0;i<s.length();i++) {
+        for (int i=0;i < s.length();i++) {
             if (s.charAt(i) < '0' || s.charAt(i) > '9') {
             }
                 return false;
