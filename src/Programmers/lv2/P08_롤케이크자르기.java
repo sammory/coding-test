@@ -14,7 +14,7 @@ public class P08_롤케이크자르기 {
         // 철수가 첫번째 케익을 가지고 있음
         first.add(topping[0]);
         // 첫번째 케익을 제외한 나머지 케익을 동생이 가지고있음
-        for (int i = 1;i < size; i++) {
+        for (int i = 1; i < size; i++) {
             second.put(topping[i], second.getOrDefault(topping[i], 0) + 1);
         }
         // 동생이 가지고 있는 케익을 하나씩 빼고 철수에게 추가
