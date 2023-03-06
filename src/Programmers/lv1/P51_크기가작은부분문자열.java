@@ -16,6 +16,7 @@ public class P51_크기가작은부분문자열 {
             }
         }
 
+
         return answer;
     }
     public static void main(String[] args) {
