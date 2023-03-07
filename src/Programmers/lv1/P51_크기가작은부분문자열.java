@@ -8,7 +8,6 @@ public class P51_크기가작은부분문자열 {
         int answer = 0;
         int len = t.length() - p.length() + 1 ;
 
-
         for (int i = 0; i < len; i++) {
             long num = Long.parseLong(t.substring(i, i + p.length()));
             if (num <= Long.parseLong(p)) {
