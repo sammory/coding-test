@@ -30,6 +30,5 @@ public class P02_잘라서배열정리 {
 
         System.out.println(my_str.length());
         System.out.println(solution(my_str,n));
-
     }
 }
