@@ -14,7 +14,7 @@ public class P15_괄호회전하기 {
         String str = s;
 
         for (int i = 0; i < s.length(); i++) {
-            if (check(str)) answer ++;
+            if (check(str)) answer++;
             // 문자열 두번째부터 마지막까지 자른 후 첫번째문자를 마지막에 추가.
             str = str.substring(1, s.length()) + str.charAt(0);
         }
