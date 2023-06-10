@@ -20,7 +20,7 @@ public class P16_자릿수더하기 {
     public static void main(String[] args) {
         P16_자릿수더하기 q = new P16_자릿수더하기();
 
-        int n = 987;
+        int n = 123;
         System.out.println(q.solution(n));
     }
 }
